@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/common"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/api"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/core"
+	"github.com/user3160/gotron-sdk/pkg/common"
+	"github.com/user3160/gotron-sdk/pkg/proto/api"
+	"github.com/user3160/gotron-sdk/pkg/proto/core"
 	"go.uber.org/zap"
 	"google.golang.org/protobuf/proto"
 )

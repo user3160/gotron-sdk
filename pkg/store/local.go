@@ -6,11 +6,11 @@ import (
 	"os"
 	"path"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/address"
-	"github.com/fbsobreira/gotron-sdk/pkg/common"
-	c "github.com/fbsobreira/gotron-sdk/pkg/common"
-	"github.com/fbsobreira/gotron-sdk/pkg/keystore"
 	"github.com/pkg/errors"
+	"github.com/user3160/gotron-sdk/pkg/address"
+	"github.com/user3160/gotron-sdk/pkg/common"
+	c "github.com/user3160/gotron-sdk/pkg/common"
+	"github.com/user3160/gotron-sdk/pkg/keystore"
 
 	homedir "github.com/mitchellh/go-homedir"
 )
